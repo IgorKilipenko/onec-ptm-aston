@@ -273,6 +273,7 @@
 			<Document>РасходнаяНакладная</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
