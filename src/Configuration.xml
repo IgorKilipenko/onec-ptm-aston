@@ -246,12 +246,29 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Производство</Subsystem>
+			<Subsystem>Ценообразование</Subsystem>
 			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Отчеты</Subsystem>
+			<Subsystem>Документы</Subsystem>
 			<Style>УПТ</Style>
 			<CommonPicture>Справочники</CommonPicture>
 			<CommonPicture>Главное</CommonPicture>
+			<CommonPicture>Документы</CommonPicture>
+			<CommonPicture>Ценообразование</CommonPicture>
+			<CommonPicture>Производство</CommonPicture>
+			<CommonPicture>Продажи</CommonPicture>
+			<CommonPicture>Отчеты</CommonPicture>
+			<CommandGroup>Продажи</CommandGroup>
+			<CommandGroup>Производство</CommandGroup>
+			<CommandGroup>Ценообразование</CommandGroup>
+			<CommandGroup>Отчеты</CommandGroup>
+			<CommandGroup>Справочники</CommandGroup>
+			<CommandGroup>Документы</CommandGroup>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
+			<Document>ВыпускГотовойПродукции</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>

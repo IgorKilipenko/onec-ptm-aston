@@ -11,22 +11,48 @@
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="04b4d15c-5723-4bc3-bdc6-b995613b01a3.0" configVersion="3a0ed7a87c87c24787767612bf97318c00000000"/>
 		<Metadata name="Catalog.Склады" id="91231f78-35c3-4eb2-8f54-b60699de2f82" configVersion="f7d76736328b1b4e851b026e5b096bad00000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="91231f78-35c3-4eb2-8f54-b60699de2f82.1c" configVersion="c5b336ef3df21443ac76ef0ceb8090dd00000000"/>
-		<Metadata name="CommonPicture.Главное" id="6bc42e7a-a72b-4421-8e88-5eb8a52f0cf4" configVersion="f16637ef796d6c46b24a88af8e9997c200000000"/>
-		<Metadata name="CommonPicture.Главное.Picture" id="6bc42e7a-a72b-4421-8e88-5eb8a52f0cf4.0" configVersion="1706ddc92a6fe947ada6bdc394f13d1e00000000"/>
-		<Metadata name="CommonPicture.Справочники" id="1562e9a7-fafb-40c5-9a43-6538aec4c11c" configVersion="48e40813cbcb1347bbef8317e4bf144b00000000"/>
-		<Metadata name="CommonPicture.Справочники.Picture" id="1562e9a7-fafb-40c5-9a43-6538aec4c11c.0" configVersion="8e3809b460ee19449166fee484c3a90900000000"/>
-		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="dcf268dce231614f8286c643e02f7a5d00000000"/>
-		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.ClientApplicationInterface" id="d4576a2f-a201-44bd-9a25-9414b017430b.b" configVersion="7ca7242bfd2cf84dab41fed19768f2e500000000"/>
+		<Metadata name="CommandGroup.Документы" id="60ddec71-560e-486b-8780-c5f5837458b2" configVersion="57adf2da814c874c8c2e02ed9d663cbd00000000"/>
+		<Metadata name="CommandGroup.Отчеты" id="7e5c638c-4daf-4afa-bc97-19d133854906" configVersion="562e5663de1ca14d9f519d6f006817b700000000"/>
+		<Metadata name="CommandGroup.Продажи" id="baa6df11-1400-4703-b7a5-4d5872628fe2" configVersion="7914dbd12b65b44a88494d0e554e7c1a00000000"/>
+		<Metadata name="CommandGroup.Производство" id="9810bc24-bcc6-4618-b91d-733bee9f0fd1" configVersion="1bf1da70fc346c4890d4006aa58fd45900000000"/>
+		<Metadata name="CommandGroup.Справочники" id="e3a26a0f-9daa-4d7a-ba7c-96d4cff5961b" configVersion="3312b49c2bb6cf4dad6d60e2b4f8f76100000000"/>
+		<Metadata name="CommandGroup.Ценообразование" id="fb360453-4ec1-486d-a1c9-7c950fc80053" configVersion="7a3755464d588b4590009735d2966bef00000000"/>
+		<Metadata name="CommonPicture.Главное" id="6bc42e7a-a72b-4421-8e88-5eb8a52f0cf4" configVersion="904d5d266376574eb96efd6c77c71c0900000000"/>
+		<Metadata name="CommonPicture.Главное.Picture" id="6bc42e7a-a72b-4421-8e88-5eb8a52f0cf4.0" configVersion="7fe78b75ed9a9e46a60146327ab43cfc00000000"/>
+		<Metadata name="CommonPicture.Документы" id="7232169f-6feb-4657-be9d-618b0bb10522" configVersion="d93bcadd35913643a1de168ac70529e200000000"/>
+		<Metadata name="CommonPicture.Документы.Picture" id="7232169f-6feb-4657-be9d-618b0bb10522.0" configVersion="644d51944dbf544495e3d5d40270a7b500000000"/>
+		<Metadata name="CommonPicture.Отчеты" id="eb555c6b-e863-45d3-930d-f0eddf05da8f" configVersion="7364bf7a37befd4d9085cc4cc06fa0c500000000"/>
+		<Metadata name="CommonPicture.Отчеты.Picture" id="eb555c6b-e863-45d3-930d-f0eddf05da8f.0" configVersion="ddf787261823024abf6216a46733b57500000000"/>
+		<Metadata name="CommonPicture.Продажи" id="577684e1-5343-4c63-991e-8b0d060e8220" configVersion="a7df2563cc2233409ee9902bdd48343d00000000"/>
+		<Metadata name="CommonPicture.Продажи.Picture" id="577684e1-5343-4c63-991e-8b0d060e8220.0" configVersion="737685f461c6dd4b822f2694a634e88200000000"/>
+		<Metadata name="CommonPicture.Производство" id="39f64e2a-aaf3-4015-9d23-e1f05e92cd2a" configVersion="0e17ef6ed390044da9512630cf83d1b700000000"/>
+		<Metadata name="CommonPicture.Производство.Picture" id="39f64e2a-aaf3-4015-9d23-e1f05e92cd2a.0" configVersion="86ca5955b868474989e7a72e1a6260a400000000"/>
+		<Metadata name="CommonPicture.Справочники" id="1562e9a7-fafb-40c5-9a43-6538aec4c11c" configVersion="5663cefed7877545a028b377858b99ac00000000"/>
+		<Metadata name="CommonPicture.Справочники.Picture" id="1562e9a7-fafb-40c5-9a43-6538aec4c11c.0" configVersion="8f109e9d3ac76a40b2247aff8339f4c800000000"/>
+		<Metadata name="CommonPicture.Ценообразование" id="b6e252b2-bdbc-4450-919a-0d60f7f6833f" configVersion="9b53cda9b6bcdb4db89be7fb077f779b00000000"/>
+		<Metadata name="CommonPicture.Ценообразование.Picture" id="b6e252b2-bdbc-4450-919a-0d60f7f6833f.0" configVersion="41712892856a16418f3ecf9ee7a3672e00000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="31b5abcd36c2b242a21af3042358000300000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.ClientApplicationInterface" id="d4576a2f-a201-44bd-9a25-9414b017430b.b" configVersion="e0b8d3d1b210f54ebffc88a0cb4b4d6c00000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.CommandInterface" id="d4576a2f-a201-44bd-9a25-9414b017430b.a" configVersion="3fefa119a0bae245a448a43829896ffa00000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea" id="d4576a2f-a201-44bd-9a25-9414b017430b.8" configVersion="69cf13cfe120224c82c780413b4adbb600000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Logo" id="d4576a2f-a201-44bd-9a25-9414b017430b.1" configVersion="81bc71e08f13614aaf808e41185411fa00000000"/>
-		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.MainSectionPicture" id="d4576a2f-a201-44bd-9a25-9414b017430b.c" configVersion="630529b92c615745860d2dd7c817d88500000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.MainSectionPicture" id="d4576a2f-a201-44bd-9a25-9414b017430b.c" configVersion="ce06c22b82161d40b66babf8e7e90ea800000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Splash" id="d4576a2f-a201-44bd-9a25-9414b017430b.2" configVersion="8db74661d6abed40b1cb6bcc3940009100000000"/>
+		<Metadata name="Document.ВыпускГотовойПродукции" id="14d0c5f3-0fc7-468c-aa71-0c16d1100117" configVersion="105f788848fa614e8e12d502f9179fda00000000"/>
 		<Metadata name="Enum.ТипыНоменклатуры" id="f15e95bb-4914-4d47-a586-8783533f7ee7" configVersion="377324452a526847a19a18422b3ddb2900000000">
 			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="1ba1d613-40d8-4b47-ba61-e8dbb647cac1"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="2685e1f4-36ff-4468-a248-85a0aaf784ee" configVersion="dc2b744dd515e042a5d226cf0c2bc04f00000000"/>
 		<Metadata name="Style.УПТ" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe" configVersion="93f6a0d6b42739488fc0f61fc7e00ea000000000"/>
 		<Metadata name="Style.УПТ.Style" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe.0" configVersion="497b76bbfd5c334ebe3888456b04bdc100000000"/>
-		<Metadata name="Subsystem.Справочники" id="4d3f71d1-6755-4a7f-b43a-bef0a932ed5a" configVersion="746e09fb87bc4f408537b9431e4f527f00000000"/>
+		<Metadata name="Subsystem.Документы" id="4ba8d78c-f03b-4764-a40f-89eee708bac9" configVersion="e3e2828fb8a054428a1e2fab98cac33700000000"/>
+		<Metadata name="Subsystem.Отчеты" id="a0fb37c3-808f-4886-aa18-efd25a3bb747" configVersion="e0f386c3f9f4c34bb275e0cbe714cd0c00000000"/>
+		<Metadata name="Subsystem.Продажи" id="893e7c24-a30f-4ec1-bbce-59c63893f2f5" configVersion="bcd459b2d6211547973c259de095e72900000000"/>
+		<Metadata name="Subsystem.Продажи.CommandInterface" id="893e7c24-a30f-4ec1-bbce-59c63893f2f5.1" configVersion="0a9ba01b54cb504896582bc05bf65d0500000000"/>
+		<Metadata name="Subsystem.Производство" id="74f960e9-f9bf-4e2a-9394-8cd3835ed3a4" configVersion="0a50d75a6d465c48870dfa4ce22d838e00000000"/>
+		<Metadata name="Subsystem.Производство.CommandInterface" id="74f960e9-f9bf-4e2a-9394-8cd3835ed3a4.1" configVersion="80e41beabcbcbd458f5c36ffb77cefad00000000"/>
+		<Metadata name="Subsystem.Справочники" id="4d3f71d1-6755-4a7f-b43a-bef0a932ed5a" configVersion="c98a98d5b59ed24bb69a228ec9f03d5600000000"/>
+		<Metadata name="Subsystem.Справочники.CommandInterface" id="4d3f71d1-6755-4a7f-b43a-bef0a932ed5a.1" configVersion="80e3cc4ee33c3849a0b5fd3bf5e550b300000000"/>
+		<Metadata name="Subsystem.Ценообразование" id="fdd64aa5-f0f6-4c10-9d47-8d082606b256" configVersion="827729cef0ece448a774514ae3d3043a00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
