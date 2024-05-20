@@ -1,14 +1,5 @@
-﻿New: AccumulationRegister.ТоварыНаСкладах
-New: Document.ВыпускГотовойПродукции.ObjectModule
-New: Document.РасходнаяНакладная.ObjectModule
+﻿New: AccumulationRegister.Продажи
 Modified: Configuration.УправлениеПроизводствомИТорговлей
-Modified: Document.ВыпускГотовойПродукции
-Modified: Document.ВыпускГотовойПродукции.Form.ФормаДокумента
-Modified: Document.ВыпускГотовойПродукции.Form.ФормаДокумента.Form
 Modified: Document.РасходнаяНакладная
-Modified: Document.РасходнаяНакладная.Form.ФормаДокумента
-Modified: Document.РасходнаяНакладная.Form.ФормаДокумента.Form
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface
-Modified: Subsystem.Производство
-Modified: Subsystem.Производство.CommandInterface
