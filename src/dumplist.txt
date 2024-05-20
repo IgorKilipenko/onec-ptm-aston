@@ -1,7 +1,1 @@
-﻿New: Report.ТоварыНаСкладе
-New: Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.УправлениеПроизводствомИТорговлей
-Modified: Subsystem.Отчеты
-Modified: Subsystem.Продажи
-Modified: Subsystem.Производство
+﻿Modified: Document.ВыпускГотовойПродукции
