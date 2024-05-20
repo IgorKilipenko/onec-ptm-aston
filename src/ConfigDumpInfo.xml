@@ -39,7 +39,16 @@
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.MainSectionPicture" id="d4576a2f-a201-44bd-9a25-9414b017430b.c" configVersion="ce06c22b82161d40b66babf8e7e90ea800000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Splash" id="d4576a2f-a201-44bd-9a25-9414b017430b.2" configVersion="8db74661d6abed40b1cb6bcc3940009100000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="29a7dbdb-a36a-451b-afe3-56ada8b563cf" configVersion="5f29cae7025e974397a661b46517624900000000"/>
-		<Metadata name="Document.ВыпускГотовойПродукции" id="14d0c5f3-0fc7-468c-aa71-0c16d1100117" configVersion="105f788848fa614e8e12d502f9179fda00000000"/>
+		<Metadata name="Document.ВыпускГотовойПродукции" id="14d0c5f3-0fc7-468c-aa71-0c16d1100117" configVersion="1a71c3f9922cda41bc605b738baede5000000000">
+			<Metadata name="Document.ВыпускГотовойПродукции.TabularSection.Товары.Attribute.Номенклатура" id="3d0af756-002e-47d0-b07f-a319390ad952"/>
+			<Metadata name="Document.ВыпускГотовойПродукции.TabularSection.Товары" id="57afb039-8121-4c71-a17d-0c47f4804c17"/>
+			<Metadata name="Document.ВыпускГотовойПродукции.Attribute.Склад" id="c68c4a8a-40df-4530-b8c3-2a1f959afc0b"/>
+			<Metadata name="Document.ВыпускГотовойПродукции.TabularSection.Товары.Attribute.Количество" id="d36667b7-5d26-4409-9e61-6f21930b6aca"/>
+		</Metadata>
+		<Metadata name="Document.ВыпускГотовойПродукции.Form.ФормаДокумента" id="e65a31bf-5745-4cb0-bcbb-be33586f54a0" configVersion="9e342c3fae3c134e83bd3d9a1aac87b200000000"/>
+		<Metadata name="Document.ВыпускГотовойПродукции.Form.ФормаДокумента.Form" id="e65a31bf-5745-4cb0-bcbb-be33586f54a0.0" configVersion="3a3f2a993699d4459c3abb6f869c4ace00000000"/>
+		<Metadata name="Document.ВыпускГотовойПродукции.Form.ФормаСписка" id="eb239e0a-88c6-4fab-bbb3-a16ca4b9be8e" configVersion="29a715d83e80a741b5338c9feca2c05c00000000"/>
+		<Metadata name="Document.ВыпускГотовойПродукции.Form.ФормаСписка.Form" id="eb239e0a-88c6-4fab-bbb3-a16ca4b9be8e.0" configVersion="60097a7e3343664e875ce011c8021e0c00000000"/>
 		<Metadata name="Document.РасходнаяНакладная" id="5dbd964f-3df5-4367-958c-da46baf609df" configVersion="bb07308475a87e4fbdd575f38bcdfce700000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="2ba69ea4-8185-42ef-9b4f-a66c80be2823"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары" id="5a6fbab5-010a-4e4b-b775-e313dc653757"/>

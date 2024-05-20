@@ -1,12 +1,5 @@
-﻿New: DefinedType.ФинансовыеДанные
-New: Document.РасходнаяНакладная
-New: Document.РасходнаяНакладная.Form.ФормаДокумента
-New: Document.РасходнаяНакладная.Form.ФормаДокумента.Form
-New: Document.РасходнаяНакладная.Form.ФормаСписка
-New: Document.РасходнаяНакладная.Form.ФормаСписка.Form
-New: Subsystem.Документы.CommandInterface
-Modified: Configuration.УправлениеПроизводствомИТорговлей
-Modified: InformationRegister.ЦеныНоменклатуры
-Modified: Subsystem.Документы
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
+﻿New: Document.ВыпускГотовойПродукции.Form.ФормаДокумента
+New: Document.ВыпускГотовойПродукции.Form.ФормаДокумента.Form
+New: Document.ВыпускГотовойПродукции.Form.ФормаСписка
+New: Document.ВыпускГотовойПродукции.Form.ФормаСписка.Form
+Modified: Document.ВыпускГотовойПродукции
