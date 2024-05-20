@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="7e5288f7b406234fbb74e56f6e56397a00000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="43c36414399ea34bb00dbf4c7a28e71a00000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Logo" id="d4576a2f-a201-44bd-9a25-9414b017430b.1" configVersion="81bc71e08f13614aaf808e41185411fa00000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Splash" id="d4576a2f-a201-44bd-9a25-9414b017430b.2" configVersion="8db74661d6abed40b1cb6bcc3940009100000000"/>
 		<Metadata name="Language.Русский" id="2685e1f4-36ff-4468-a248-85a0aaf784ee" configVersion="dc2b744dd515e042a5d226cf0c2bc04f00000000"/>
+		<Metadata name="Style.УПТ" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe" configVersion="93f6a0d6b42739488fc0f61fc7e00ea000000000"/>
+		<Metadata name="Style.УПТ.Style" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe.0" configVersion="497b76bbfd5c334ebe3888456b04bdc100000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

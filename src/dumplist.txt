@@ -1,0 +1,4 @@
+﻿New: Configuration.УправлениеПроизводствомИТорговлей.Splash
+New: Style.УПТ
+New: Style.УПТ.Style
+Modified: Configuration.УправлениеПроизводствомИТорговлей

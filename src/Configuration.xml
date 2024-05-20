@@ -36,7 +36,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление производством и торговлей (УТП)</v8:content>
+					<v8:content>Управление производством и торговлей (УПТ)</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment>По ТЗ для кандидатов на стажировку - 1С Developer</Comment>
@@ -228,7 +228,7 @@
 			<AllowedIncomingShareRequestTypes/>
 			<MainClientApplicationWindowMode>Normal</MainClientApplicationWindowMode>
 			<DefaultInterface/>
-			<DefaultStyle/>
+			<DefaultStyle>Style.УПТ</DefaultStyle>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -246,6 +246,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Style>УПТ</Style>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
