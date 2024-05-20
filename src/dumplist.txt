@@ -1,2 +1,3 @@
-﻿Modified: Document.РасходнаяНакладная.Form.ФормаДокумента
+﻿Modified: Document.РасходнаяНакладная
+Modified: Document.РасходнаяНакладная.Form.ФормаДокумента
 Modified: Document.РасходнаяНакладная.Form.ФормаДокумента.Form
