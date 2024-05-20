@@ -251,6 +251,7 @@
 			<CommonPicture>Справочники</CommonPicture>
 			<CommonPicture>Главное</CommonPicture>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Склады</Catalog>
 			<Enum>ТипыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>

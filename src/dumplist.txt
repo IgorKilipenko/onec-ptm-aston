@@ -1,7 +1,4 @@
-﻿New: Catalog.Номенклатура
-New: Catalog.Номенклатура.Form.ФормаСписка
-New: Catalog.Номенклатура.Form.ФормаСписка.Form
-New: Catalog.Номенклатура.Form.ФормаЭлемента
-New: Catalog.Номенклатура.Form.ФормаЭлемента.Form
-New: Enum.ТипыНоменклатуры
+﻿New: Catalog.Склады
+New: Catalog.Склады.Predefined
 Modified: Configuration.УправлениеПроизводствомИТорговлей
+Modified: Subsystem.Справочники
