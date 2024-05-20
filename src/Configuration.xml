@@ -272,6 +272,7 @@
 			<Document>ВыпускГотовойПродукции</Document>
 			<Document>РасходнаяНакладная</Document>
 			<Enum>ТипыНоменклатуры</Enum>
+			<Report>ТоварыНаСкладе</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

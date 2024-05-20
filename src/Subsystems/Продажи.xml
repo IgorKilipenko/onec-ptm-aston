@@ -25,6 +25,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.РасходнаяНакладная</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ТоварыНаСкладах</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ТоварыНаСкладе</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
