@@ -246,7 +246,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Справочники</Subsystem>
 			<Style>УПТ</Style>
+			<CommonPicture>Справочники</CommonPicture>
+			<CommonPicture>Главное</CommonPicture>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

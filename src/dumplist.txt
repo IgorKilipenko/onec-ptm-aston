@@ -1,4 +1,9 @@
-﻿New: Configuration.УправлениеПроизводствомИТорговлей.Splash
-New: Style.УПТ
-New: Style.УПТ.Style
+﻿New: CommonPicture.Главное
+New: CommonPicture.Главное.Picture
+New: CommonPicture.Справочники
+New: CommonPicture.Справочники.Picture
+New: Configuration.УправлениеПроизводствомИТорговлей.ClientApplicationInterface
+New: Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea
+New: Configuration.УправлениеПроизводствомИТорговлей.MainSectionPicture
+New: Subsystem.Справочники
 Modified: Configuration.УправлениеПроизводствомИТорговлей
