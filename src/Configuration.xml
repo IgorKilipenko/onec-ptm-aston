@@ -260,6 +260,7 @@
 			<CommonPicture>Производство</CommonPicture>
 			<CommonPicture>Продажи</CommonPicture>
 			<CommonPicture>Отчеты</CommonPicture>
+			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Производство</CommandGroup>
 			<CommandGroup>Ценообразование</CommandGroup>
@@ -269,6 +270,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Document>ВыпускГотовойПродукции</Document>
+			<Document>РасходнаяНакладная</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 		</ChildObjects>
