@@ -270,6 +270,7 @@
 			<Catalog>Склады</Catalog>
 			<Document>ВыпускГотовойПродукции</Document>
 			<Enum>ТипыНоменклатуры</Enum>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
