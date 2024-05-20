@@ -1,5 +1,2 @@
-﻿New: AccumulationRegister.Продажи
-Modified: Configuration.УправлениеПроизводствомИТорговлей
-Modified: Document.РасходнаяНакладная
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
+﻿Modified: Document.РасходнаяНакладная.Form.ФормаДокумента
+Modified: Document.РасходнаяНакладная.Form.ФормаДокумента.Form
