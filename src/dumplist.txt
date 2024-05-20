@@ -1,9 +1,7 @@
-﻿New: CommonPicture.Главное
-New: CommonPicture.Главное.Picture
-New: CommonPicture.Справочники
-New: CommonPicture.Справочники.Picture
-New: Configuration.УправлениеПроизводствомИТорговлей.ClientApplicationInterface
-New: Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea
-New: Configuration.УправлениеПроизводствомИТорговлей.MainSectionPicture
-New: Subsystem.Справочники
+﻿New: Catalog.Номенклатура
+New: Catalog.Номенклатура.Form.ФормаСписка
+New: Catalog.Номенклатура.Form.ФормаСписка.Form
+New: Catalog.Номенклатура.Form.ФормаЭлемента
+New: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+New: Enum.ТипыНоменклатуры
 Modified: Configuration.УправлениеПроизводствомИТорговлей

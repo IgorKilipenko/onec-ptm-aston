@@ -1,16 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="56ba17d9-22da-46c4-a98a-1b26776b08b9" configVersion="a1d5acebaacfa743940a38e79969f30700000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="5584bc13-9ec2-43d1-82fa-6bb73e2c57e4"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="7a6e13ea-18ef-4288-bbf4-356185958664"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="261acc39-cc8c-4c48-8c45-fc5f664fc169" configVersion="b2ea282367741b469acd231e81b0137600000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="261acc39-cc8c-4c48-8c45-fc5f664fc169.0" configVersion="825c753c22e5b04bbc884f3f51bdf17300000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="04b4d15c-5723-4bc3-bdc6-b995613b01a3" configVersion="6bf414c8ee316e40837e978cdca6a42b00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="04b4d15c-5723-4bc3-bdc6-b995613b01a3.0" configVersion="3a0ed7a87c87c24787767612bf97318c00000000"/>
 		<Metadata name="CommonPicture.Главное" id="6bc42e7a-a72b-4421-8e88-5eb8a52f0cf4" configVersion="f16637ef796d6c46b24a88af8e9997c200000000"/>
 		<Metadata name="CommonPicture.Главное.Picture" id="6bc42e7a-a72b-4421-8e88-5eb8a52f0cf4.0" configVersion="1706ddc92a6fe947ada6bdc394f13d1e00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="1562e9a7-fafb-40c5-9a43-6538aec4c11c" configVersion="48e40813cbcb1347bbef8317e4bf144b00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="1562e9a7-fafb-40c5-9a43-6538aec4c11c.0" configVersion="8e3809b460ee19449166fee484c3a90900000000"/>
-		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="49976830bf05654fb7dbf4161962829a00000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="b84bebab46f59843af40fe4de5591d4400000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.ClientApplicationInterface" id="d4576a2f-a201-44bd-9a25-9414b017430b.b" configVersion="7ca7242bfd2cf84dab41fed19768f2e500000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea" id="d4576a2f-a201-44bd-9a25-9414b017430b.8" configVersion="69cf13cfe120224c82c780413b4adbb600000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Logo" id="d4576a2f-a201-44bd-9a25-9414b017430b.1" configVersion="81bc71e08f13614aaf808e41185411fa00000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.MainSectionPicture" id="d4576a2f-a201-44bd-9a25-9414b017430b.c" configVersion="630529b92c615745860d2dd7c817d88500000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Splash" id="d4576a2f-a201-44bd-9a25-9414b017430b.2" configVersion="8db74661d6abed40b1cb6bcc3940009100000000"/>
+		<Metadata name="Enum.ТипыНоменклатуры" id="f15e95bb-4914-4d47-a586-8783533f7ee7" configVersion="377324452a526847a19a18422b3ddb2900000000">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="1ba1d613-40d8-4b47-ba61-e8dbb647cac1"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="2685e1f4-36ff-4468-a248-85a0aaf784ee" configVersion="dc2b744dd515e042a5d226cf0c2bc04f00000000"/>
 		<Metadata name="Style.УПТ" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe" configVersion="93f6a0d6b42739488fc0f61fc7e00ea000000000"/>
 		<Metadata name="Style.УПТ.Style" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe.0" configVersion="497b76bbfd5c334ebe3888456b04bdc100000000"/>

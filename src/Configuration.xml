@@ -250,6 +250,8 @@
 			<Style>УПТ</Style>
 			<CommonPicture>Справочники</CommonPicture>
 			<CommonPicture>Главное</CommonPicture>
+			<Catalog>Номенклатура</Catalog>
+			<Enum>ТипыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
