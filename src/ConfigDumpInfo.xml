@@ -11,7 +11,7 @@
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="f5d2ce7f-1d46-4895-9033-7006ef3b40bd"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="f7e1ab31-b07c-410e-97b8-8685e4e8e80e"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура" id="56ba17d9-22da-46c4-a98a-1b26776b08b9" configVersion="a1d5acebaacfa743940a38e79969f30700000000">
+		<Metadata name="Catalog.Номенклатура" id="56ba17d9-22da-46c4-a98a-1b26776b08b9" configVersion="6900823928b7694db45b23d737c78d6300000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="5584bc13-9ec2-43d1-82fa-6bb73e2c57e4"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="7a6e13ea-18ef-4288-bbf4-356185958664"/>
 		</Metadata>
