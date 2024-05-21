@@ -17,8 +17,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="261acc39-cc8c-4c48-8c45-fc5f664fc169" configVersion="b2ea282367741b469acd231e81b0137600000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="261acc39-cc8c-4c48-8c45-fc5f664fc169.0" configVersion="825c753c22e5b04bbc884f3f51bdf17300000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="04b4d15c-5723-4bc3-bdc6-b995613b01a3" configVersion="6bf414c8ee316e40837e978cdca6a42b00000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="04b4d15c-5723-4bc3-bdc6-b995613b01a3.0" configVersion="3a0ed7a87c87c24787767612bf97318c00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="04b4d15c-5723-4bc3-bdc6-b995613b01a3" configVersion="263d81c684ee10408bd37b438072376700000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="04b4d15c-5723-4bc3-bdc6-b995613b01a3.0" configVersion="532092228e6a0645b7b518c1fed83d6900000000"/>
 		<Metadata name="Catalog.Склады" id="91231f78-35c3-4eb2-8f54-b60699de2f82" configVersion="f7d76736328b1b4e851b026e5b096bad00000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="91231f78-35c3-4eb2-8f54-b60699de2f82.1c" configVersion="c5b336ef3df21443ac76ef0ceb8090dd00000000"/>
 		<Metadata name="CommandGroup.Документы" id="60ddec71-560e-486b-8780-c5f5837458b2" configVersion="57adf2da814c874c8c2e02ed9d663cbd00000000"/>
