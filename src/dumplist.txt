@@ -1,2 +1,3 @@
-﻿New: InformationRegister.ЦеныНоменклатуры.ManagerModule
-Modified: InformationRegister.ЦеныНоменклатуры
+﻿New: Document.РасходнаяНакладная.ManagerModule
+Modified: Document.РасходнаяНакладная
+Modified: Document.РасходнаяНакладная.ObjectModule

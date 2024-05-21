@@ -61,7 +61,7 @@
 		<Metadata name="Document.ВыпускГотовойПродукции.Form.ФормаСписка.Form" id="eb239e0a-88c6-4fab-bbb3-a16ca4b9be8e.0" configVersion="60097a7e3343664e875ce011c8021e0c00000000"/>
 		<Metadata name="Document.ВыпускГотовойПродукции.ManagerModule" id="14d0c5f3-0fc7-468c-aa71-0c16d1100117.2" configVersion="33f8c0433f57644a8ae3e3f1735e09e600000000"/>
 		<Metadata name="Document.ВыпускГотовойПродукции.ObjectModule" id="14d0c5f3-0fc7-468c-aa71-0c16d1100117.0" configVersion="b15560d0a543b14683083c89e80f12da00000000"/>
-		<Metadata name="Document.РасходнаяНакладная" id="5dbd964f-3df5-4367-958c-da46baf609df" configVersion="87d145ab5966fe498c0393036477748c00000000">
+		<Metadata name="Document.РасходнаяНакладная" id="5dbd964f-3df5-4367-958c-da46baf609df" configVersion="c1827668adc0834f8d98ee6ed81d110900000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="2ba69ea4-8185-42ef-9b4f-a66c80be2823"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары" id="5a6fbab5-010a-4e4b-b775-e313dc653757"/>
 			<Metadata name="Document.РасходнаяНакладная.Attribute.Склад" id="686b4f4f-e676-42ff-b4f6-d8c98fdcc399"/>
@@ -74,7 +74,8 @@
 		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="9226e34e-74e5-40aa-936f-47bf86770706.0" configVersion="112b790880656b4685d8d161c3091a5100000000"/>
 		<Metadata name="Document.РасходнаяНакладная.Form.ФормаСписка" id="dbd42710-7565-478d-9130-ddc941c6da10" configVersion="a72b4c582af6bf47bc607faffdcb60e400000000"/>
 		<Metadata name="Document.РасходнаяНакладная.Form.ФормаСписка.Form" id="dbd42710-7565-478d-9130-ddc941c6da10.0" configVersion="78d314bb146cb34da73edaf53408955400000000"/>
-		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="5dbd964f-3df5-4367-958c-da46baf609df.0" configVersion="db66f578ee4b4443b0637924ac3d988000000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ManagerModule" id="5dbd964f-3df5-4367-958c-da46baf609df.2" configVersion="63994e98cd44784fbd0da8e0d369be6100000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="5dbd964f-3df5-4367-958c-da46baf609df.0" configVersion="20a9da0f21a7224e87c386a6963bfd0200000000"/>
 		<Metadata name="Enum.ТипыНоменклатуры" id="f15e95bb-4914-4d47-a586-8783533f7ee7" configVersion="377324452a526847a19a18422b3ddb2900000000">
 			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="1ba1d613-40d8-4b47-ba61-e8dbb647cac1"/>
 		</Metadata>
