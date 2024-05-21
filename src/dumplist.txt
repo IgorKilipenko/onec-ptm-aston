@@ -1,2 +1,7 @@
-﻿Modified: Document.РасходнаяНакладная.Form.ФормаДокумента
-Modified: Document.РасходнаяНакладная.Form.ФормаДокумента.Form
+﻿New: Report.ОстаткиТоваровНаСкладах
+New: Report.ОстаткиТоваровНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОстаткиТоваровНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.УправлениеПроизводствомИТорговлей
+Modified: Subsystem.Отчеты
+Modified: Subsystem.Продажи
+Modified: Subsystem.Производство
