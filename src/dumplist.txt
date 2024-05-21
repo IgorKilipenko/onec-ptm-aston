@@ -1,7 +1,3 @@
-﻿New: Report.ОстаткиТоваровНаСкладах
-New: Report.ОстаткиТоваровНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОстаткиТоваровНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: Configuration.УправлениеПроизводствомИТорговлей.MainSectionCommandInterface
 Modified: Configuration.УправлениеПроизводствомИТорговлей
-Modified: Subsystem.Отчеты
-Modified: Subsystem.Продажи
-Modified: Subsystem.Производство
+Modified: Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea

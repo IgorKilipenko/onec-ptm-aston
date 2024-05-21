@@ -41,11 +41,12 @@
 		<Metadata name="CommonPicture.Справочники.Picture" id="1562e9a7-fafb-40c5-9a43-6538aec4c11c.0" configVersion="8f109e9d3ac76a40b2247aff8339f4c800000000"/>
 		<Metadata name="CommonPicture.Ценообразование" id="b6e252b2-bdbc-4450-919a-0d60f7f6833f" configVersion="9b53cda9b6bcdb4db89be7fb077f779b00000000"/>
 		<Metadata name="CommonPicture.Ценообразование.Picture" id="b6e252b2-bdbc-4450-919a-0d60f7f6833f.0" configVersion="41712892856a16418f3ecf9ee7a3672e00000000"/>
-		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="2627d3a7b3c8714f83c13f350915148400000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей" id="5035f7ad-4350-4e9d-8940-1c62d9ef9e97" configVersion="4d10d767665ad542b335ff14d127435a00000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.ClientApplicationInterface" id="d4576a2f-a201-44bd-9a25-9414b017430b.b" configVersion="e0b8d3d1b210f54ebffc88a0cb4b4d6c00000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.CommandInterface" id="d4576a2f-a201-44bd-9a25-9414b017430b.a" configVersion="3fefa119a0bae245a448a43829896ffa00000000"/>
-		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea" id="d4576a2f-a201-44bd-9a25-9414b017430b.8" configVersion="69cf13cfe120224c82c780413b4adbb600000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea" id="d4576a2f-a201-44bd-9a25-9414b017430b.8" configVersion="1167c088016ada4d9aeda2d4918fa93a00000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Logo" id="d4576a2f-a201-44bd-9a25-9414b017430b.1" configVersion="81bc71e08f13614aaf808e41185411fa00000000"/>
+		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.MainSectionCommandInterface" id="d4576a2f-a201-44bd-9a25-9414b017430b.9" configVersion="ef6f80cc0c82904fa1487d360ea24f4b00000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.MainSectionPicture" id="d4576a2f-a201-44bd-9a25-9414b017430b.c" configVersion="ce06c22b82161d40b66babf8e7e90ea800000000"/>
 		<Metadata name="Configuration.УправлениеПроизводствомИТорговлей.Splash" id="d4576a2f-a201-44bd-9a25-9414b017430b.2" configVersion="8db74661d6abed40b1cb6bcc3940009100000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="29a7dbdb-a36a-451b-afe3-56ada8b563cf" configVersion="5f29cae7025e974397a661b46517624900000000"/>
