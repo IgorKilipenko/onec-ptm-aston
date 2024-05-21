@@ -1,3 +1,2 @@
-﻿New: Configuration.УправлениеПроизводствомИТорговлей.MainSectionCommandInterface
-Modified: Configuration.УправлениеПроизводствомИТорговлей
-Modified: Configuration.УправлениеПроизводствомИТорговлей.HomePageWorkArea
+﻿Modified: Document.РасходнаяНакладная
+Modified: Document.РасходнаяНакладная.ObjectModule
