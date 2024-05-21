@@ -1,2 +1,1 @@
-﻿Modified: Document.РасходнаяНакладная
-Modified: Document.РасходнаяНакладная.ObjectModule
+﻿Modified: Document.ВыпускГотовойПродукции
