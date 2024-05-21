@@ -1,2 +1,2 @@
-﻿Modified: Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: InformationRegister.ЦеныНоменклатуры.ManagerModule
+Modified: InformationRegister.ЦеныНоменклатуры

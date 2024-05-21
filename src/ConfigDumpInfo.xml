@@ -78,7 +78,7 @@
 		<Metadata name="Enum.ТипыНоменклатуры" id="f15e95bb-4914-4d47-a586-8783533f7ee7" configVersion="377324452a526847a19a18422b3ddb2900000000">
 			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="1ba1d613-40d8-4b47-ba61-e8dbb647cac1"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="3ba97124-0e3b-4c90-a3bc-8d6e2d58178c" configVersion="a209d3fadfcf704abebbe771de79e95000000000">
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="3ba97124-0e3b-4c90-a3bc-8d6e2d58178c" configVersion="b68e1d985605ab42985554ffc919fa4000000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Сумма" id="908d8896-580b-4fea-8593-076ef9b4c058"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="fd3d81df-72a6-42ce-b459-cba469ea74a5"/>
 		</Metadata>
@@ -86,6 +86,7 @@
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="92844824-6892-4c50-9816-612b0e9e0bb7.0" configVersion="a1fd2b95d9e34144ac6e5522cc1ae3f600000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="50c73ee5-1793-4629-bdc5-b3a1a3f28332" configVersion="bfb8240ec994ec4c994dafe69dd5e5ff00000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="50c73ee5-1793-4629-bdc5-b3a1a3f28332.0" configVersion="b7410f9f5bada74687240727b85c38d000000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.ManagerModule" id="3ba97124-0e3b-4c90-a3bc-8d6e2d58178c.2" configVersion="06c401abe49f5146b37660f40b7657b600000000"/>
 		<Metadata name="Language.Русский" id="2685e1f4-36ff-4468-a248-85a0aaf784ee" configVersion="dc2b744dd515e042a5d226cf0c2bc04f00000000"/>
 		<Metadata name="Report.ТоварыНаСкладе" id="5d6c1a29-e394-469e-a031-ba67df6fcdfa" configVersion="936a58c7d21cae428683ad4ebd18817a00000000"/>
 		<Metadata name="Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных" id="af3e1a7c-cfa5-40ee-a717-75883c419027" configVersion="4467a0294bbf2540a1c46512c0609eb900000000"/>
