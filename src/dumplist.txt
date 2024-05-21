@@ -1,3 +1,2 @@
-﻿New: Document.ВыпускГотовойПродукции.ManagerModule
-Modified: Document.ВыпускГотовойПродукции
-Modified: Document.ВыпускГотовойПродукции.ObjectModule
+﻿Modified: Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных.Template

@@ -88,8 +88,8 @@
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="50c73ee5-1793-4629-bdc5-b3a1a3f28332.0" configVersion="b7410f9f5bada74687240727b85c38d000000000"/>
 		<Metadata name="Language.Русский" id="2685e1f4-36ff-4468-a248-85a0aaf784ee" configVersion="dc2b744dd515e042a5d226cf0c2bc04f00000000"/>
 		<Metadata name="Report.ТоварыНаСкладе" id="5d6c1a29-e394-469e-a031-ba67df6fcdfa" configVersion="936a58c7d21cae428683ad4ebd18817a00000000"/>
-		<Metadata name="Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных" id="af3e1a7c-cfa5-40ee-a717-75883c419027" configVersion="6a741a289c448f449936f6e5cc7a61fd00000000"/>
-		<Metadata name="Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="af3e1a7c-cfa5-40ee-a717-75883c419027.0" configVersion="40c48b8958d96e40b72a26b6cda7491500000000"/>
+		<Metadata name="Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных" id="af3e1a7c-cfa5-40ee-a717-75883c419027" configVersion="4467a0294bbf2540a1c46512c0609eb900000000"/>
+		<Metadata name="Report.ТоварыНаСкладе.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="af3e1a7c-cfa5-40ee-a717-75883c419027.0" configVersion="ff232d848c601c44b8a299a2605bb49a00000000"/>
 		<Metadata name="Style.УПТ" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe" configVersion="93f6a0d6b42739488fc0f61fc7e00ea000000000"/>
 		<Metadata name="Style.УПТ.Style" id="a65933a4-3138-4f60-b5cd-2a4da1ab6cfe.0" configVersion="497b76bbfd5c334ebe3888456b04bdc100000000"/>
 		<Metadata name="Subsystem.Документы" id="4ba8d78c-f03b-4764-a40f-89eee708bac9" configVersion="d64c70975211cd4fb258b4ee183e91aa00000000"/>
