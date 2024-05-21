@@ -1,3 +1,2 @@
-﻿New: Document.РасходнаяНакладная.ManagerModule
-Modified: Document.РасходнаяНакладная
-Modified: Document.РасходнаяНакладная.ObjectModule
+﻿Modified: Document.РасходнаяНакладная.Form.ФормаДокумента
+Modified: Document.РасходнаяНакладная.Form.ФормаДокумента.Form
